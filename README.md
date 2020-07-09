@@ -1,4 +1,11 @@
-### Hi there 👋
+### Merhabalar 👋
+
+> Hiç kuşkusuz nadir bulunan bir yolun çetin olması da çok doğaldır. Zaten kurtuluşumuz hemen elimizin altında olsaydı ve onu yeniden bulmak için böyle büyük emekler harcamamız gerekmeseydi, bunca insan şimdiye kadar onu hiç mi görmezdi? Ama bütün mükemmel şeyler nadirdir ve bir o kadar da zor bulunur. 
+
+- Spinoza - Ethica
+
+
+
 
 <!--
 **aliorhun/aliorhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
