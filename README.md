@@ -6,10 +6,12 @@
 - Spinoza - Ethica
 
 ![GitHub followers](https://img.shields.io/github/followers/aliorhun?style=social)
+![Twitter followers](https://img.shields.io/twitter/follow/aliorhun?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/alorak?style=social)
 
 <p>
-<a href="https://twitter.com/aliorhun"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://dev.to/aliorhun"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+</br>
 <span class="badge-patreon">
 <a href="https://patreon.com/aliorhun" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a>
 </span>
