@@ -1,5 +1,6 @@
 ### Merhabalar 👋
 
+<a href="https://dev.to/aliorhun"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 
 > Hiç kuşkusuz nadir bulunan bir yolun çetin olması da çok doğaldır. Zaten kurtuluşumuz hemen elimizin altında olsaydı ve onu yeniden bulmak için böyle büyük emekler harcamamız gerekmeseydi, bunca insan şimdiye kadar onu hiç mi görmezdi? Ama bütün mükemmel şeyler nadirdir ve bir o kadar da zor bulunur. 
 
@@ -9,9 +10,9 @@
 ![Twitter followers](https://img.shields.io/twitter/follow/aliorhun?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/alorak?style=social)
 
+![Profile views](https://gpvc.arturio.dev/aliorhun)  
+
 <p>
-<a href="https://dev.to/aliorhun"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-</br>
 <span class="badge-patreon">
 <a href="https://patreon.com/aliorhun" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a>
 </span>
