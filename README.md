@@ -6,11 +6,10 @@
 
 - Spinoza - Ethica
 
-![GitHub followers](https://img.shields.io/github/followers/aliorhun?style=social)
-![Twitter followers](https://img.shields.io/twitter/follow/aliorhun?style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/alorak?style=social)
-
-![Profile views](https://gpvc.arturio.dev/aliorhun)  
+![Profile views](https://gpvc.arturio.dev/aliorhun?style=plastic)  
+![GitHub followers](https://img.shields.io/github/followers/aliorhun?style=plastic&logo=github)
+![Twitter followers](https://img.shields.io/twitter/follow/aliorhun?style=plastic&logo=twitter)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/alorak?style=plastic&logo=reddit)
 
 <p>
 <span class="badge-patreon">
